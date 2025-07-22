@@ -1,2 +1,2 @@
 # survai-core
-Core backend of Survai, handling AI automation, user workflows, and XRP Ledger interactions.
+Survai Core is the backend engine powering [Survai](https://survai.xyz), a consumer rights automation platform that uses AI and blockchain to automate tasks like refunds, cancellations, and data access requests. This module manages AI agents, consumer workflows, and XRP Ledger (XRPL) interactions. survai-frontend/
