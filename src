@@ -1,1 +1,8 @@
-public
+assets
+components
+hooks
+pages
+services
+styles
+app.tsx
+main.tsx
